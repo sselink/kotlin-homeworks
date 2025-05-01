@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="anaRenk">#9C8FA6</color>
+    <color name="anaRenk2">#F2C9D4</color>
+    <color name="anaRenkKoyu">#EB7084</color>
+    <color name="yaziRenk1">#FF000000</color>
+    <color name="yaziRenk3">#594347</color>
+    <color name="yaziRenk4">#F2B5A7</color>
+</resources>

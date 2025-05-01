@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Perfume</string>
+    <string name="detail">Ürün Detayları</string>
+    <string name="productName">Falgies Parfüm</string>
+    <string name="price">12.400TL</string>
+    <string name="currentVolume">Hacim 70ml</string>
+    <string name="volumeSelect">Hacim Paketi</string>
+    <string name="vol1">250g</string>
+    <string name="vol2">500g</string>
+    <string name="vol3">750g</string>
+    <string name="vol4">1kg</string>
+    <string name="descName">Açıklama</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a pellentesque lacus. Etiam tristique nisi tellus, eget cursus ligula imperdiet at. Morbi consectetur libero... Daha fazla </string>
+    <string name="swipe">Başlamak için kaydırın</string>
+</resources>
